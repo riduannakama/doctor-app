@@ -1,4 +1,4 @@
-# uas_project
+# Doctor App
 
 A new Flutter project.
 
